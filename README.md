@@ -1,19 +1,10 @@
-#  Utilitario Golang - gorb-util
+#  Layout golang CMD folder
 
 ## getting started
-golang function and package util for commons task
+https://github.com/golang-standards/project-layout/blob/master/cmd/README.md
 
-## packages
-- str  (String commons tag)
-- time (functions for)
+https://github.com/heptio/ark/tree/master/cmd 
+velero/cmd/velero/main.go/
+package main
 
-## comandos
-go mod init github.com/rbarec/gorb-util/str
-go mod init github.com/rbarec/gorb-util/time
-go test
-go mod init github/hello
-go list -m all
-go list -m rsc.io/quote/v3
-go doc rsc.io/quote
-go doc rsc.io/quote/v3
-go mod tidy
+ 
